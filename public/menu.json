@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng",
+    "price": 15000,
+    "image": "https://img-global.cpcdn.com/recipes/0820c8cf5a5e18aa/600x440cq70/nasi-goreng-solaria-foto-resep-utama.webp"
+  },
+  {
+    "id": 2,
+    "name": "Kwetiau",
+    "price": 15000,
+    "image": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/08/07032610/Praktis-dan-Enak-Ini-Resep-Kwetiau-Goreng-Telur-yang-Lezat-.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ayam Goreng",
+    "price": 16000,
+    "image": "ayam-goreng.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ayam Bakar",
+    "price": 17000,
+    "image": "https://asset.kompas.com/crops/N8WTCiVClutwEkjIgCykYbt1e2Q=/142x72:863x553/1200x800/data/photo/2022/09/27/633297e88244b.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nasi Putih",
+    "price": 5000,
+    "image": "nasi.jpg"
+  }
+]
