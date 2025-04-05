@@ -8,19 +8,19 @@ export default function MenuPage() {
       id: 1,
       name: "Nasi Goreng",
       price: 15000,
-      image: "/images/nasi-goreng.jpg",
+      image: "nasi-goreng.jpg",
     },
     {
       id: 2,
       name: "Ayam Goreng",
       price: 17000,
-      image: "/images/ayam-goreng.jpg",
+      image: "ayam-goreng.jpg",
     },
     {
       id: 3,
       name: "Nasi",
       price: 5000,
-      image: "/images/nasi.jpg",
+      image: "nasi.jpg",
     },
   ];
 
