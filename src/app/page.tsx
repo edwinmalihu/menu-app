@@ -1,30 +1,31 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
+
+type MenuItem = {
+  id: number;
+  name: string;
+  price: number;
+  image: string;
+};
 
 export default function MenuPage() {
-  const menuItems = [
-    {
-      id: 1,
-      name: "Nasi Goreng",
-      price: 15000,
-      image: "nasi-goreng.jpg",
-    },
-    {
-      id: 2,
-      name: "Ayam Goreng",
-      price: 17000,
-      image: "ayam-goreng.jpg",
-    },
-    {
-      id: 3,
-      name: "Nasi",
-      price: 5000,
-      image: "nasi.jpg",
-    },
-  ];
-
+  const [menuItems, setMenuItems] = useState<MenuItem[]>([]);
   const [order, setOrder] = useState<{ [key: number]: number }>({});
+
+  // Ambil data dari menu.json
+  useEffect(() => {
+    const fetchMenu = async () => {
+      try {
+        const res = await fetch("/menu.json");
+        const data = await res.json();
+        setMenuItems(data);
+      } catch (error) {
+        console.error("Gagal memuat menu:", error);
+      }
+    };
+    fetchMenu();
+  }, []);
 
   const handleQuantityChange = (id: number, qty: number) => {
     setOrder((prevOrder) => ({
@@ -85,7 +86,6 @@ export default function MenuPage() {
         ))}
       </div>
 
-      {/* Ringkasan */}
       {orderSummary.length > 0 && (
         <div className="mt-10">
           <h2 className="text-2xl font-bold text-gray-800 mb-4 text-center">
@@ -117,7 +117,6 @@ export default function MenuPage() {
             </table>
           </div>
 
-          {/* Total */}
           <div className="text-center mt-6">
             <h2 className="text-2xl font-bold text-gray-800">
               Total:{" "}
