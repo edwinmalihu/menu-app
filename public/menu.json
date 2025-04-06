@@ -7,26 +7,170 @@
   },
   {
     "id": 2,
-    "name": "Kwetiau",
+    "name": "Nasi Goreng Pete",
+    "price": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoy_ApoxkwhGbB9Y1FZQ4rdy5CNycXNgX-Sw&s"
+  },
+  {
+    "id": 3,
+    "name": "Nasi Goreng Ati Ampla",
+    "price": 21000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdIkMNwA8nyo6hQPwu-CQoVBfP_OepdfQmHg&s"
+  },
+  {
+    "id": 4,
+    "name": "Nasi Goreng Seafood",
+    "price": 25000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuTItOl9Emo57KEVpHTsybZpC6y8qU4bjDw&s"
+  },
+  {
+    "id": 5,
+    "name": "Kwetiau Goreng / Rebus",
     "price": 15000,
     "image": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/08/07032610/Praktis-dan-Enak-Ini-Resep-Kwetiau-Goreng-Telur-yang-Lezat-.jpg"
   },
   {
-    "id": 3,
+    "id": 6,
+    "name": "Kwetiau Goreng / Rebus Pete",
+    "price": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLHlR0RXfcNlFkvcVqPML8caBsOLD622lqih5bNvLEvELM9hYqb3lb_D5&s=10"
+  },
+  {
+    "id": 7,
+    "name": "Kwetiau Goreng / Rebus Ati Ampla",
+    "price": 21000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdpaMeVmQ5wekTdSLHOz0vxZTnhIEyhow12DWYzBFurUQ03KLaqUGPOGgS&s=10"
+  },
+  {
+    "id": 8,
+    "name": "Kwetiau Goreng / Rebus Seafood",
+    "price": 25000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE-Bu_YRFDxxNYm9CAgNYwTF3qb65uZYksRX7yqGnWiZrmvIbUKYHpK7pS&s=10"
+  },
+  {
+    "id": 9,
+    "name": "Mie Goreng / Rebus",
+    "price": 15000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlgA7ql0m9v5ZlBpDIGiDAGBU83jRbXCtsUw&s"
+  },
+  {
+    "id": 10,
+    "name": "Mie Goreng / Rebus Pete",
+    "price": 18000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQlni2UiqXBa168hnGlTN5FBdUVByBHP2Rw&s"
+  },
+  {
+    "id": 11,
+    "name": "Mie Goreng / Rebus Ati Ampla",
+    "price": 21000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLcxSA6eokWoEE3eM8Wk61_yndkuWHq5RBMg&s"
+  },
+  {
+    "id": 12,
+    "name": "Mie Goreng / Rebus Seafood",
+    "price": 25000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79-g3lPr7yCgPJiJlY7z7XddZzhxoUBYw0Q&s"
+  },
+  {
+    "id": 13,
     "name": "Ayam Goreng",
     "price": 16000,
     "image": "ayam-goreng.jpg"
   },
   {
-    "id": 4,
+    "id": 14,
     "name": "Ayam Bakar",
     "price": 17000,
     "image": "https://asset.kompas.com/crops/N8WTCiVClutwEkjIgCykYbt1e2Q=/142x72:863x553/1200x800/data/photo/2022/09/27/633297e88244b.jpg"
   },
   {
-    "id": 5,
-    "name": "Nasi Putih",
+    "id": 15,
+    "name": "Nasi",
     "price": 5000,
     "image": "nasi.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Pecel Lele",
+    "price": 13000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfGSecBbGx7UjAqY_zhQoqmJAGNrlaaeWSA&s"
+  },
+  {
+    "id": 17,
+    "name": "Tahu/Tempe",
+    "price": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dab1HGQAwE28mpmgsjeMsp2DVGYZDVBCdQ&s"
+  },
+  {
+    "id": 18,
+    "name": "Sate Atii Ampla",
+    "price": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7gyqR7meb5ZpvDh1y86W0b3moKg1tUncqIw&s"
+  },
+  {
+    "id": 19,
+    "name": "Sate Usus ( Goreng / Bakar ) 3 Pcs",
+    "price": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSB-J7amojOa9G1MUx1E32NAI-iF-X5OO4nA&s"
+  },
+  {
+    "id": 20,
+    "name": "Sate Kulit ( Goreng / Bakar ) 2 Pcs",
+    "price": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdNPGF0y_BZZm3qYkNDsCrLj8rzxV36i-Ow&s"
+  },
+  {
+    "id": 21,
+    "name": "Good Day ( All Varian )",
+    "price": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJ3kFtWgAVQTloqggJj0Hv8jrAVx89cIH5w&s"
+  },
+  {
+    "id": 22,
+    "name": "Kopi Kapal Api",
+    "price": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jfVduwpu374yIV5ctUK93PboW5w6UyZQbHkICKjkbU9ZFD6UGvEo-Uc-&s=10"
+  },
+  {
+    "id": 23,
+    "name": "Indocafe",
+    "price": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiVoCBf1tr9rFVzFtImHb_86eVz64LLf-vmQ&s"
+  },
+  {
+    "id": 24,
+    "name": "Nutrisari ( All Varian )",
+    "price": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR35pS6OcKU3khH4N8lzA5D6SA0w2X0_SSAgg&s"
+  },
+  {
+    "id": 25,
+    "name": "Anget Sari",
+    "price": 4000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdAHP1yikQfAfYU0UAxHBxNeBxrwZ9KRJlA&s"
+  },
+  {
+    "id": 26,
+    "name": "Es Jeruk",
+    "price": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93vjN1u1VNvoWlzUqxvr475peoghjkY08dg&s"
+  },
+  {
+    "id": 27,
+    "name": "Es Bengbeng",
+    "price": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqwM3BZk_nsNzffgKV9yrpQMKFOWAUeA65EA&s"
+  },
+  {
+    "id": 28,
+    "name": "Roti Bakar",
+    "price": 5000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1s-OGREscmIdIukLoB73uEP7sPKdITOCJhg&s"
+  },
+  {
+    "id": 29,
+    "name": "Ayam Bekakak",
+    "price": 70000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtpWfFXkISDg3MumKdPYfISqzVbRf_N02E41HIi-Njw3ZDZN2J2FWZl5v&s=10"
   }
 ]
